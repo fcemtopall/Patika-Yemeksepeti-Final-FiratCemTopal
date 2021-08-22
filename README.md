@@ -33,7 +33,7 @@ Gastronaut is a local food ordering application. With this application, you can 
 
 
 ```bash
-git clone https://github.com/fcemtopall/Patika-Yemeksepeti-Final
+git clone https://github.com/fcemtopall/Patika-Yemeksepeti-Final-FiratCemTopal
 ```
 
 
