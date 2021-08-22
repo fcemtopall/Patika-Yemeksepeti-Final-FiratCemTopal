@@ -6,15 +6,16 @@ Gastronaut is a local food ordering application. With this application, you can 
 - Android Projesi
 - Mvvm
 - Dagger Hilt
-- Kotlin Coroutine
 - ViewModel - Livedata
 - Retrofit - Gson
 - RecyclerView
 - Fragment
 - Socket for live support
 - Firebase
+- Kotlin Coroutine
 
-##General View
+
+## General View
 
 | Splash Screen |
 | ------------ |
