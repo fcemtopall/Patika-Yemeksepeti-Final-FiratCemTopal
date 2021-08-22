@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/splash_navigation"
+    app:startDestination="@id/fragment_splash">
+
+    <fragment
+        android:id="@+id/fragment_splash"
+        android:name="com.fcemtopall.patika_yemeksepeti_final.ui.splash.SplashFragment"
+        android:label="fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_onboardingFragment"
+            app:destination="@id/fragment_onboarding" />
+        <action
+            android:id="@+id/action_splashFragment_to_loginAndRegisterFragment"
+            app:destination="@id/loginAndRegisterFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragment_onboarding"
+        android:name="com.fcemtopall.patika_yemeksepeti_final.ui.onboarding.OnboardingFragment"
+        android:label="fragment_onboarding"
+        tools:layout="@layout/fragment_onboarding" >
+        <action
+            android:id="@+id/action_onboardingFragment_to_loginAndRegisterFragment"
+            app:destination="@id/loginAndRegisterFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginAndRegisterFragment"
+        android:name="com.fcemtopall.patika_yemeksepeti_final.ui.loginandregister.LoginAndRegisterFragment"
+        android:label="fragment_login_and_register"
+       />
+</navigation>

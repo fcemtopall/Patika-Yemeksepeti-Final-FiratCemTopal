@@ -26,7 +26,8 @@ data class Restaurant(
     val paymentMethods: String,
     @SerializedName("phone")
     val phone: String,
-
+    @SerializedName("website")
+    val website: String,
     @SerializedName("cuisine")
     val cuisine: String,
 )

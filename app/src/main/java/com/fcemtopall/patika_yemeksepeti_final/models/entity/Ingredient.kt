@@ -1,4 +1,4 @@
-package com.fcemtopall.patika_yemeksepeti_final.models
+package com.fcemtopall.patika_yemeksepeti_final.models.entity
 
 import com.google.gson.annotations.SerializedName
 
