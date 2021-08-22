@@ -1,6 +1,6 @@
 package com.fcemtopall.patika_yemeksepeti_final.models.remote
 
-import com.fcemtopall.patika_yemeksepeti_final.models.User
+import com.fcemtopall.patika_yemeksepeti_final.models.entity.User
 import com.fcemtopall.patika_yemeksepeti_final.models.entity.addFood.FoodAddRequest
 import com.fcemtopall.patika_yemeksepeti_final.models.entity.addFood.FoodAddResponse
 import com.fcemtopall.patika_yemeksepeti_final.models.entity.addRestaurant.RestaurantAddRequest
