@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId "com.fcemtopall.patika_yemeksepeti_final"
-        minSdk 24
+        minSdk 28
         targetSdk 30
         versionCode 1
         versionName "1.0"
@@ -87,8 +87,6 @@ dependencies {
     implementation 'com.google.android.flexbox:flexbox:3.0.0'
 
     //Multiselect Spinner
-    implementation 'com.github.zeeshan5422:Material-MultiSelection-Spinner:1.0'
-    implementation 'com.github.pratikbutani:MultiSelectSpinner:1.0.1'
 
     //JWT Decode
     implementation 'com.auth0.android:jwtdecode:2.0.0'

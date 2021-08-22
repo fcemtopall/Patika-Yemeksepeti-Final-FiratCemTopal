@@ -27,6 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/loginAndRegisterFragment"
+        tools:layout="@layout/fragment_login_and_register"
         android:name="com.fcemtopall.patika_yemeksepeti_final.ui.loginandregister.LoginAndRegisterFragment"
         android:label="fragment_login_and_register"
        />

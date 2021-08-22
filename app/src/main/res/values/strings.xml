@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Patika-Yemeksepeti-Final</string>
+    <string name="app_name">Gastoronot</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
@@ -166,7 +166,7 @@
     <string name="logo_image">Logo Image</string>
     <string name="fast_delivery">HIZLI TESLİMAT</string>
     <string name="sign_up">Kayıt Ol</string>
-    <string name="enjoy_your_meal">YEMEEĞİN KEYFİNİ ÇIKARIN</string>
+    <string name="enjoy_your_meal">YEMEĞİN KEYFİNİ ÇIKARIN</string>
     <string name="enjoy_image">Enjoy Image</string>
     <string name="response_not_found">Ups!… SONUÇ YOK</string>
     <string name="name">Name</string>

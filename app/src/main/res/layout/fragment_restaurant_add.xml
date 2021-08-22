@@ -365,7 +365,6 @@
                     android:focusable="true"
                     android:focusableInTouchMode="false"
                     android:importantForAutofill="no"
-                    app:sort="true"
                     />
                 <!-- app:showSearch="true" => To add search bar -->
 
